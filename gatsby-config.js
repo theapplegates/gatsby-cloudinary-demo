@@ -38,7 +38,7 @@ module.exports = {
         apiKey: process.env.CLOUDINARY_API_KEY,
         apiSecret: process.env.CLOUDINARY_API_SECRET,
         resourceType: `image`,
-        prefix: `gatsby-test/` 
+        prefix: `gatsby-test` 
       }
     }
   
